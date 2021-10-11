@@ -1,0 +1,121 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?1ac6f3ca27a775d36c3132398a5bfad4") format("truetype"), url("./flaticon.woff?1ac6f3ca27a775d36c3132398a5bfad4") format("woff"), url("./flaticon.woff2?1ac6f3ca27a775d36c3132398a5bfad4") format("woff2"), url("./flaticon.eot?1ac6f3ca27a775d36c3132398a5bfad4#iefix") format("embedded-opentype"), url("./flaticon.svg?1ac6f3ca27a775d36c3132398a5bfad4#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before,
+i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-up-arrow:before {
+    content: "\f101";
+}
+
+.flaticon-like:before {
+    content: "\f102";
+}
+
+.flaticon-user:before {
+    content: "\f103";
+}
+
+.flaticon-search:before {
+    content: "\f104";
+}
+
+}
+.flaticon-right-arrow:before {
+    content: "\f105";
+}
+
+.flaticon-left-arrow-in-circle-outline:before {
+    content: "\f106";
+}
+
+.flaticon-football:before {
+    content: "\f107";
+}
+
+.flaticon-delivery-car:before {
+    content: "\f108";
+}
+
+.flaticon-cash:before {
+    content: "\f109";
+}
+
+.flaticon-shopping-basket:before {
+    content: "\f10a";
+}
+
+
+.flaticon-star:before {
+    content: "\f10b";
+}
+
+.flaticon-calendar:before {
+    content: "\f10c";
+}
+.flaticon-lo:before {
+    content: "\f10c";
+}
+
+.flaticon-like-1:before {
+    content: "\f10d";
+}
+
+.flaticon-chat:before {
+    content: "\f10e";
+}
+
+.flaticon-right-arrow-1:before {
+    content: "\f10f";
+}
+
+.flaticon-pin:before {
+    content: "\f110";
+}
+
+.flaticon-phone-call:before {
+    content: "\f111";
+}
+
+.flaticon-browser:before {
+    content: "\f112";
+}
+
+.flaticon-gmail:before {
+    content: "\f113";
+}
+
+.flaticon-facebook:before {
+    content: "\f114";
+}
+
+.flaticon-twitter:before {
+    content: "\f115";
+}
+
+.flaticon-pinterest:before {
+    content: "\f116";
+}
+
+.flaticon-be-social-badge:before {
+    content: "\f117";
+}
+
+.flaticon-linked-in-logo-of-two-letters:before {
+    content: "\f118";
+}
+
+.flaticon-up-arrow-1:before {
+    content: "\f119";
+}
